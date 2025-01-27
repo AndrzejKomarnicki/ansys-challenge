@@ -56,7 +56,7 @@ variable "instance_ami" {
 
   type = string
 
-  default = "ami-0ac4dfaf1c5c0cce9"
+  default = "ami-0fa40e25bf4dda1f6"
 
 }
 
